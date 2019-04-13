@@ -2,21 +2,23 @@
 
 ### 家具
 - [ ] ベッド
-- [ ] カーテン
-  - [ ] 長め 遮光カーテン
-  - [ ] 短め
-- [ ] マットレス エアリーマットレス [アイリスオーヤマ シングルMAR-S](https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=K536256F) か Amazon[アイリス シングルMARS-S](https://www.amazon.co.jp/アイリスオーヤマ-マットレス-厚さ5cm-リバーシブル-MARS-S/dp/B00FIX50HM/ref=pd_sbs_0_1/358-0489380-9038331?_encoding=UTF8&pd_rd_i=B00FIX50HM&pd_rd_r=4fde43d3-585d-11e9-af9b-1597d02c1bd2&pd_rd_w=ETvER&pd_rd_wg=qLaUb&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=SQJ08JRZBPBTSJSYWZR3&psc=1&refRID=SQJ08JRZBPBTSJSYWZR3)を購入する。
+- [x] カーテン
+  - [X] 長め 遮光カーテン
+   幅 1.7m 高さ 1.8m
+  - [x] 短め
+   幅 1.7m 高さ 1.2m
+- [x] マットレス エアリーマットレス [アイリスオーヤマ シングルMAR-S](https://www.irisplaza.co.jp/index.php?KB=SHOSAI&SID=K536256F) か Amazon[アイリス シングルMARS-S](https://www.amazon.co.jp/アイリスオーヤマ-マットレス-厚さ5cm-リバーシブル-MARS-S/dp/B00FIX50HM/ref=pd_sbs_0_1/358-0489380-9038331?_encoding=UTF8&pd_rd_i=B00FIX50HM&pd_rd_r=4fde43d3-585d-11e9-af9b-1597d02c1bd2&pd_rd_w=ETvER&pd_rd_wg=qLaUb&pf_rd_p=ad2ea29d-ea11-483c-9db2-6b5875bb9b73&pf_rd_r=SQJ08JRZBPBTSJSYWZR3&psc=1&refRID=SQJ08JRZBPBTSJSYWZR3)を購入する。
 - マットレスの滑り止め
 
 ### 家電
-- [] 冷蔵庫  シャープ 2009年製 ２ドア（高さ： 148cm　幅： 54cm　奥行き： 59cm）
+- [x] 冷蔵庫  シャープ 2009年製 ２ドア（高さ： 148cm　幅： 54cm　奥行き： 59cm）
   - 受取り場所 大山口付近
-- 洗濯機
+- [ ] 洗濯機
   - メルカリ OR 新規購入
 
 
 ### 洗濯用品 :tshirt:
-- [ ] 物干し竿
+- [x] 物干し竿
 - [ ] 洗濯バサミ
 - [ ] ハンガー
 - [ ] ハンガーピンチ
@@ -101,11 +103,10 @@
 ## 引越し用トラックのレンタル
 ### 考えられるパターン
 
-車両 積載量
-高さ 幅 長さ
-- 2tトラック 積載量(高さ： 184.5cm　幅： 177.0cm　長さ： 310.0cm)
-2tトラック(屋根なし) 積載量(高さ： 無制限　幅： 161.5cm　長さ： 311.5cm)
-- 軽トラック(ボンゴ) 積載量(高さ： 無制限 幅： 160cm
-　長さ： 273.5cm)
-- ハイエース
+| 車種| 高さ | 幅 | 長さ |
+|:--|:--:|:--:|:--:|
+|2tトラック|184.5cm|177.0cm|310.0cm
+|2tトラック(屋根なし)| 無制限 |161.5cm|311.5cm|
+|軽トラック(ボンゴ)|無制限|160cm|273.5cm|
+|ハイエース|
 
